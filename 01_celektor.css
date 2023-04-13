@@ -1,0 +1,152 @@
+body {
+    color: #0f0504;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    font-weight: 500;
+    text-decoration: solid;
+    background-color: #FAEBD7; 
+    margin: 10px;   
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641093872_1-abrakadabra-fun-p-nezhno-rozovoe-nebo-2.jpg);
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.box-shadow {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 3px 4px 14px rgba(0, 0, 0, 0.25);
+  
+}
+
+
+ .card-2 p {
+    color: #faf;
+    margin: 0;
+ }
+
+ .card-1 {
+border: 2px solid black;
+border-radius: 10px;
+background-color: #FAEBD7;
+padding: 15px;
+ }
+
+ .card-2 {
+   border: 2px solid black;
+   border-radius: 10px;
+   background-color: DarkOrchid;
+   padding: 15px;
+ }
+
+ .card-3 {
+   border: 2px solid black;
+   border-radius: 10px;
+   background-color: #5F9EA0;
+   padding: 15px;
+   margin-bottom: 10px;
+   
+    }
+
+ .btn {
+   background: black;   
+   color: #FAEBD7;
+   padding: 15px 15px;
+   border: none;
+   cursor: pointer;
+   border-radius: 7px;
+  }
+
+  a:active {
+   color: blue;
+  }
+  
+  a:visited {
+    color: grey;
+  }
+
+  .btn:hover {
+    opacity: .8;
+  }
+
+  .nav {
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+  }
+
+  .nav li {
+    padding-bottom: 5px;
+    border-bottom: 2px solid grey;
+  }
+
+  .navi {
+    width: 100%;
+   
+  }
+
+  .navi th {
+    text-align: center;
+    padding-bottom: 5px;
+  }
+
+  .navi td {
+    text-align: center;
+    padding-bottom: 5px;
+  }
+      
+  .card-3 h4 {
+text-align: center;
+  }
+
+  .navi td:nth-child(2){
+    background: grey;
+  }
+  .navi td:nth-child(3){
+    background: grey;
+  }
+
+  .card-3 h2 {
+    text-align: center;
+  }
+
+  .box {
+    box-sizing: border-box; 
+    background-color: Azure;
+    border-radius: 10px;
+    display: inline-block;   
+    margin: 20px 10px;
+    vertical-align: top;
+  } 
+  
+  .boxx {
+    border-color: sienna;
+    border: 2px solid black;
+    position: relative;
+  }
+  
+.formg label {
+display: block;
+ }
+
+.formg input,
+.formg textarea {
+  display: block;
+  box-sizing: border-box;
+  border: none;
+  background: transparent;
+  outline: none; 
+}
+
+.form-row .formg {
+display: inline-block;
+margin-bottom: 10px;
+margin-right: 20px;
+
+}
+
+
+
